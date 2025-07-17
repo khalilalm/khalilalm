@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Khalil Al-Mujeeb.
+  <a href="https://www.linkedin.com/in/khalil-al-mujeeb/" />
 - 👀 I’m interested in coding, working out, anime and helping others in the areas that I have failed.
 - 🌱 I’m currently learning NFT programming with Opensea.
 - 💞️ I’m looking to collaborate on more opensource projects specifically incorporating messaging systems.
